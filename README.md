@@ -69,4 +69,3 @@ For any questions or collaboration, reach out via:
 ---
 
 🚀 *NLP-TweetSentiment - An AI-Powered Sentiment Analysis Project* 🚀
-" > README.md
